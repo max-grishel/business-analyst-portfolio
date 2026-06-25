@@ -30,7 +30,7 @@
 
 ## Инструменты
 
-Bizagi Modeler (BPMN 2.0), Markdown / Confluence, SQL (PostgreSQL).
+Bizagi Modeler (BPMN 2.0), Markdown, SQL (PostgreSQL).
 
 ## Обо мне
 
