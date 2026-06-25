@@ -10,9 +10,9 @@
 
 ### 1. Бизнес-процессы (BPMN 2.0, Bizagi)
 - **Конвертация в мобильном приложении** - сквозной процесс с пулами и дорожками, обменом сообщениями с клиентом и внешним источником курса, каскадом контролей (лимит, AML, средства), таймером устаревания котировки и откатом при сбое зачисления.
-  [Схема (PNG)](diagrams/conversion_app.png) · [Исходник (.bpmn)](diagrams/conversion_app.bpmn)
+  ![Конвертация в приложении](diagrams/conversion_app.png) · [Исходник (.bpmn)](diagrams/conversion_app.bpmn)
 - **Наличная конвертация в отделении** - процесс с очной идентификацией, проверкой подлинности купюр, пороговым контролем ПОД/ФТ и выдачей наличных. Пара для сравнения каналов.
-  [Схема (PNG)](diagrams/conversion_branch.png) · [Исходник (.bpmn)](diagrams/conversion_branch.bpmn)
+  ![Наличная конвертация](diagrams/conversion_branch.png) · [Исходник (.bpmn)](diagrams/conversion_branch.bpmn)
 
 ### 2. Требования
 - **User stories с критериями приёмки** - требования, «нарезанные» из процесса, в формате Given/When/Then, с приоритетами по MoSCoW. [Открыть](requirements/user_stories.md)
